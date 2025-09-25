@@ -1,0 +1,1 @@
+# This is Netflix clone made using HTML, CSS and Javascript.
